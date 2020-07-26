@@ -1,2 +1,3 @@
-# diving-into-rust-path
-A full course to learn coding Rust
+# Diving into Rust
+
+A full course to learn coding Rust.
